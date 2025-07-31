@@ -4,12 +4,6 @@ This project uses **OpenCV** and **Python** to create an Augmented Reality exper
 
 ---
 
-## 📸 Live Demo
-
-https://github.com/YOUR_USERNAME/ar-video-overlay/assets/demo.gif *(Optional demo GIF or video)*
-
----
-
 ## 🚀 Features
 - Detects custom target image using ORB feature matching
 - Plays video only when the image is visible
